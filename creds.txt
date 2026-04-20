@@ -1,2 +1,0 @@
-username:Aman
-password:0019484
