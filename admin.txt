@@ -1,1 +1,4 @@
 Hey there this page is only for the admin to access
+Admin Can add the users 
+it can change the roles 
+Admin can give the IAM creds
