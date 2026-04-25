@@ -2,3 +2,9 @@ Hey there this page is only for the admin to access
 Admin Can add the users 
 it can change the roles 
 Admin can give the IAM creds
+
+Feature 3
+Changes
+1.Face Lock will be added 
+2.Punch in punch out 
+3.No WFH allowed
